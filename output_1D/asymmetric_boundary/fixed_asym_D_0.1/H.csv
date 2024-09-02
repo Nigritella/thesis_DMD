@@ -1,4 +1,4 @@
-fixed_asym,fixed_sym
+fixed_asym_D=0.1 mm/w,fixed_sym_D=0.1 mm/w
 0.0,0.0
 0.0,0.0
 0.002126082156352,0.002126082156352
