@@ -1,4 +1,4 @@
-evolving_asym_D=0.1 mm/w,evolving_sym_D=0.1 mm/w
+evolving_asym_D=0.1 mm^2/w,evolving_sym_D=0.1 mm^2/w
 0.0,0.0
 0.0,0.0
 0.002126082156352,0.002126082156352
